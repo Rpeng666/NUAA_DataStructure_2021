@@ -1,0 +1,8 @@
+input: 12 13 24 56 34 23 12 22 8 4 19 89 9 2 6 34 6
+getelem: 12 34 0
+locateelem: 34 12 22 -9 6 99
+prior: 12 56 4 6
+next: 12 56 4 6
+setelem: 1 9 2 4
+insert: 1 10 5 8
+delete: 4 12 9 -1 9 20
