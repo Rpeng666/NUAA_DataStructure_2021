@@ -1,3 +1,0 @@
-﻿  main.cpp
-main.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl Links::insertNode(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?insertNode@Links@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)，函数 "void __cdecl readData(class Links &)" (?readData@@YAXAEAVLinks@@@Z) 中引用了该符号
-D:\UserData\visual studio\repos\CourseDesign\MustToDo\T1\T1\x64\Debug\T1.exe : fatal error LNK1120: 1 个无法解析的外部命令
