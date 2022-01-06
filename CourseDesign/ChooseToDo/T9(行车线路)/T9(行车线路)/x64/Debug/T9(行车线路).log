@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\UserData\visual studio\repos\CourseDesign\ChooseToDo\T9(行车线路)\T9(行车线路)\main.cpp(172,12): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\UserData\visual studio\repos\CourseDesign\ChooseToDo\T9(行车线路)\T9(行车线路)\main.cpp(174,12): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\UserData\visual studio\repos\CourseDesign\ChooseToDo\T9(行车线路)\T9(行车线路)\main.cpp(177,25): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  T9(行车线路).vcxproj -> D:\UserData\visual studio\repos\CourseDesign\ChooseToDo\T9(行车线路)\x64\Debug\T9(行车线路).exe

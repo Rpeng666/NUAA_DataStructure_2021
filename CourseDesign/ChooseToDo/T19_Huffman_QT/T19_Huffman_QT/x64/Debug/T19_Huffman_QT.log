@@ -1,0 +1,11 @@
+﻿  Reading Qt configuration (D:/UserSoftware/QT/Qt5.12.12/5.12.12/msvc2017_64/bin/qmake)
+  uic T19_Huffman_QT.ui
+  rcc T19_Huffman_QT.qrc
+  moc T19_Huffman_QT.h
+   RCC: Warning: No resources in 'D:\UserData\visual studio\repos\CourseDesign\ChooseToDo\T19_Huffman_QT\T19_Huffman_QT\T19_Huffman_QT.qrc'.
+  huffman.cpp
+  T19_Huffman_QT.cpp
+  main.cpp
+  qrc_T19_Huffman_QT.cpp
+  moc_T19_Huffman_QT.cpp
+  T19_Huffman_QT.vcxproj -> D:\UserData\visual studio\repos\CourseDesign\ChooseToDo\T19_Huffman_QT\x64\Debug\T19_Huffman_QT.exe

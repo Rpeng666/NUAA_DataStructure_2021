@@ -1,0 +1,25 @@
+18 6
+{
+"head":{
+  "script":"javascript",
+  "meta":"theme-color"
+},
+"body":{
+  "textarea": {
+    "id": "is\"result\"",
+    "style": "display"
+  },
+  "div":{
+    "id":"\\wraapper",
+    "class":"wrapper_new"
+  },
+  "script":"javascript"
+},
+"link":"www.aaavf\\\\.cv"
+}
+head.meta
+body.link
+body.div
+body.textarea.id
+link
+body.script

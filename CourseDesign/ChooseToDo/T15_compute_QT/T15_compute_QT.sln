@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "T15_compute_QT", "T15_compute_QT\T15_compute_QT.vcxproj", "{388502B7-B3BF-4088-900B-2F5B99B03059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{388502B7-B3BF-4088-900B-2F5B99B03059}.Debug|x64.ActiveCfg = Debug|x64
+		{388502B7-B3BF-4088-900B-2F5B99B03059}.Debug|x64.Build.0 = Debug|x64
+		{388502B7-B3BF-4088-900B-2F5B99B03059}.Release|x64.ActiveCfg = Release|x64
+		{388502B7-B3BF-4088-900B-2F5B99B03059}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {155C58F3-3FFC-4F5D-B38B-7148577053BE}
+	EndGlobalSection
+EndGlobal

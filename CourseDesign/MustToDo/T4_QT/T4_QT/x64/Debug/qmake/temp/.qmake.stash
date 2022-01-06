@@ -1,0 +1,26 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1929
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 192930136
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    "D:\\UserSoftware\\Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include" \
+    "D:\\UserSoftware\\Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include" \
+    "D:\\UserSoftware\\Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt" \
+    "D:\\UserSoftware\\Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\UnitTest\\include" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt" \
+    Include\\um
+QMAKE_CXX.LIBDIRS = \
+    "D:\\UserSoftware\\Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\lib\\x64" \
+    "D:\\UserSoftware\\Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\lib\\x64" \
+    "D:\\UserSoftware\\Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\lib\\x64" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.19041.0\\ucrt\\x64" \
+    "D:\\UserSoftware\\Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\UnitTest\\lib" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.19041.0\\um\\x64" \
+    lib\\um\\x64

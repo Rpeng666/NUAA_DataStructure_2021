@@ -1,0 +1,12 @@
+﻿  Reading Qt configuration (D:/UserSoftware/QT/Qt5.12.12/5.12.12/msvc2017_64/bin/qmake)
+  uic T4_QT.ui
+  rcc T4_QT.qrc
+  moc T4_QT.h
+   RCC: Warning: No resources in 'D:\UserData\visual studio\repos\CourseDesign\MustToDo\T4_QT\T4_QT\T4_QT.qrc'.
+  bus.cpp
+  main.cpp
+D:\UserData\visual studio\repos\CourseDesign\MustToDo\T4_QT\T4_QT\bus.cpp(133): warning C4715: “Bus::findComLine”: 不是所有的控件路径都返回值
+  T4_QT.cpp
+  qrc_T4_QT.cpp
+  moc_T4_QT.cpp
+  T4_QT.vcxproj -> D:\UserData\visual studio\repos\CourseDesign\MustToDo\T4_QT\x64\Debug\T4_QT.exe

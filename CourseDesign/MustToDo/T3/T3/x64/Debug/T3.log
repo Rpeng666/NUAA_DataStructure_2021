@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\UserData\visual studio\repos\CourseDesign\MustToDo\T3\T3\main.cpp(23,3): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\UserData\visual studio\repos\CourseDesign\MustToDo\T3\T3\main.cpp(31,3): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\UserData\visual studio\repos\CourseDesign\MustToDo\T3\T3\main.cpp(33,66): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\UserData\visual studio\repos\CourseDesign\MustToDo\T3\T3\main.cpp(58,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\UserData\visual studio\repos\CourseDesign\MustToDo\T3\T3\main.cpp(110,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\UserData\visual studio\repos\CourseDesign\MustToDo\T3\T3\main.cpp(110,51): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+D:\UserData\visual studio\repos\CourseDesign\MustToDo\T3\T3\main.cpp(117,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\UserData\visual studio\repos\CourseDesign\MustToDo\T3\T3\main.cpp(119,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  T3.vcxproj -> D:\UserData\visual studio\repos\CourseDesign\MustToDo\T3\x64\Debug\T3.exe

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a5fa508-46f4-4682-9341-c5335e9a6186": {
+      "ProjectGuid": "0a5fa508-46f4-4682-9341-c5335e9a6186",
+      "DisplayName": "T19(Huffman编码)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

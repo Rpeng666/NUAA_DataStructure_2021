@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a302c366-d91e-484e-9e68-7c3c81059e3d": {
+      "ProjectGuid": "a302c366-d91e-484e-9e68-7c3c81059e3d",
+      "DisplayName": "T5(Hash)_QT",
+      "ColorIndex": 0
+    },
+    "c5b9072a-251d-4816-a9dd-7292ce36034e": {
+      "ProjectGuid": "c5b9072a-251d-4816-a9dd-7292ce36034e",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
